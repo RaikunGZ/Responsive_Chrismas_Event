@@ -36,6 +36,7 @@ Abgabe 14.12 bis 20 Uhr, dann kann ich die in ruhe durchschauen ^^
 6. Versuche das PopUp zu verstecken, bei Klick auf den Login Button sollte das PopUp sichtbar werden (es gibt einige Möglichkeiten)
 
 Zusatzaufgaben - LandingPage
+
 schwer - Erstelle mit Hilfe von bg.png und bg_hover.png das auf den Bildern gezeigte Rätsel
 
 leicht - Positioniere das Lösungswort: "HoHoHo21" unter bg_hover.png
