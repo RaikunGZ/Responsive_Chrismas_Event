@@ -10,6 +10,7 @@ Kriterien vom Chef des Unternehmens:
 - Buttons: Registrieren verlinkt auf das Formular Login soll ein kleines PopUp Fenster öffnen (Loginname, Password und Button)
 
 Die Mitarbeiterin, die dir diesen Auftrag zuschickt hat noch einen kleinen extra Wunsch:
+
 "Hallo ich kenne mich mit dem bau von Webseiten nicht wirklich aus, daher habe ich ein paar beispielbilder herausgesucht und hoffe, dass diese helfen.
 Gerne können Sie aber auch eigene Bilder verwenden. Ich persönlich fände es super, wenn die Webseite beim aufrufen ein Weihnachtslied abspielt...
 allerdings weiß ich nicht ob das technisch so chnell möglich ist. Ich habe Ihnen trotzdem mal ein paar meiner lieblings Weihnachtslieder mitgeschickt.
@@ -36,7 +37,9 @@ Abgabe 14.12 bis 20 Uhr, dann kann ich die in ruhe durchschauen ^^
 
 Zusatzaufgaben - LandingPage
 schwer - Erstelle mit Hilfe von bg.png und bg_hover.png das auf den Bildern gezeigte Rätsel
+
 leicht - Positioniere das Lösungswort: "HoHoHo21" unter bg_hover.png
+
 mittel - Zusatz Musik spielen, wenn die seite geladen wird
 (ACHTUNG: Musik wird stehts auf 100% Lautstärke abgespielt, daher regelt dies bitte auf eine angenehme Hintergrundlautsärke runter)
 
