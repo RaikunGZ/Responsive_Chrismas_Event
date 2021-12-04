@@ -35,9 +35,9 @@ Abgabe 14.12 bis 20 Uhr, dann kann ich die in ruhe durchschauen ^^
 6. Versuche das PopUp zu verstecken, bei Klick auf den Login Button sollte das PopUp sichtbar werden (es gibt einige Möglichkeiten)
 
 Zusatzaufgaben - LandingPage
-** Erstelle mit Hilfe von bg.png und bg_hover.png das auf den Bildern gezeigte Rätsel
-* Positioniere das Lösungswort: "HoHoHo21" unter bg_hover.png
-** Zusatz Musik spielen, wenn die seite geladen wird
+schwer - Erstelle mit Hilfe von bg.png und bg_hover.png das auf den Bildern gezeigte Rätsel
+leicht - Positioniere das Lösungswort: "HoHoHo21" unter bg_hover.png
+mittel - Zusatz Musik spielen, wenn die seite geladen wird
 (ACHTUNG: Musik wird stehts auf 100% Lautstärke abgespielt, daher regelt dies bitte auf eine angenehme Hintergrundlautsärke runter)
 
 
