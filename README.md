@@ -32,7 +32,7 @@ Abgabe 14.12 bis 20 Uhr, dann kann ich die in ruhe durchschauen ^^
 - Firmen Icon
 3. dekoriere den Body mit den Beispiel Weihnachtsbildern oder eigenen
 4. Die LandingPage sollte eine höhe von 1 Bildschirm haben
-5. Erstelle ein Login PopUp
+5. Erstelle ein Login PopUp (ich bin selbst noch am probieren, esmüsste klappen aber ignoriert es erstmal ^^)
 6. Versuche das PopUp zu verstecken, bei Klick auf den Login Button sollte das PopUp sichtbar werden (es gibt einige Möglichkeiten)
 
 Zusatzaufgaben - LandingPage
@@ -41,7 +41,7 @@ schwer - Erstelle mit Hilfe von bg.png und bg_hover.png das auf den Bildern geze
 
 leicht - Positioniere das Lösungswort: "HoHoHo21" unter bg_hover.png
 
-mittel - Zusatz Musik spielen, wenn die seite geladen wird
+mittel - Zusatz Musik spielen, wenn die seite geladen wird (reine HTML Lösung funktioniert NICHT in Chrome)
 (ACHTUNG: Musik wird stehts auf 100% Lautstärke abgespielt, daher regelt dies bitte auf eine angenehme Hintergrundlautsärke runter)
 
 
